@@ -1,7 +1,7 @@
 # No sign-on video conference website
 List of packages
 body parser             : https://www.npmjs.com/package/body-parser
-    compression             : https://www.npmjs.com/package/compression
+compression             : https://www.npmjs.com/package/compression
     cors                    : https://www.npmjs.com/package/cors
     crypto-js               : https://www.npmjs.com/package/crypto-js
     dotenv                  : https://www.npmjs.com/package/dotenv
