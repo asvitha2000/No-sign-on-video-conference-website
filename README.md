@@ -1,3 +1,6 @@
+A simple no sign on conference website. 
+Share link with your buddies and boom you are good to go.
+As of now we are facing domain issues, comeback later
 # No sign-on video conference website
 List of packages
 body parser             : https://www.npmjs.com/package/body-parser
