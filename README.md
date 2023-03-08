@@ -1,5 +1,5 @@
 A simple no sign on conference website. 
-Share link with your buddies and boom you are good to go.
+Share unique code generated with your friends, associates and boom you are good to go.
 upto 400mb files can be shared.
 # No sign-on video conference website <br>
 List of packages
